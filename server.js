@@ -1,7 +1,5 @@
 import express from "express";
-
 import config from "./src/db/config.js";
-
 import bodyParser from "body-parser";
 import user from "./src/routes/routes.js";
 
